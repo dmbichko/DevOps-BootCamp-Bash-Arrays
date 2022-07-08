@@ -6,4 +6,3 @@ for i in {a..z} ; do
         mkdir $DIR"/folder_"$i
         let "count+=1"
 done
-# Place your code here
